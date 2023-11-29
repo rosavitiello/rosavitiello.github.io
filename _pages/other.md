@@ -13,7 +13,7 @@ profile:
   more_info: # >
 ---
 
-🐕, 📚, 👾, 📺/🎥, 🎶, 🍜: Outside of work, I spend the much of my time entertaining my energetic Australian Shepherd, Pablo (namesake from Picasso or, if preferred, Pablo Sanchez from Backyard Baseball or the penguin from Backyardigans). Like many, I also enjoy reading, video gaming, (obsessively re)watching movies/tv shows, music, and eating. As of writing, currently postulating over:
+🐕, 📚, 👾, 📺/🎥, 🎶, 🍜: Outside of work, I spend most of my time entertaining my energetic Australian Shepherd, Pablo (namesake from Picasso or, if preferred, Pablo Sanchez from Backyard Baseball or the penguin from Backyardigans). Like many, I also enjoy reading, video gaming, (obsessively re)watching movies/tv shows, music, and eating. As of writing, currently postulating over:
 - 📚: joy luck club by Amy Tan
 - 👾: dave the diver
 - 📺/🎥: modern family / the boy and the heron
