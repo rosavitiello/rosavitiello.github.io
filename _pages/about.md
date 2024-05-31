@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a Research Associate at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with Prof. [Carolyn Rosé](https://www.cs.cmu.edu/~cprose/) and Prof. [Yonatan Bisk](https://yonatanbisk.com/). Previously, I finished my masters at CMU LTI where I was also advised by Prof. Rosé.
+Hello! I am a Research Associate and incoming first-year PhD at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Carolyn Rosé](https://www.cs.cmu.edu/~cprose/) and Prof. [Yonatan Bisk](https://yonatanbisk.com/). Previously, I finished my masters at CMU LTI where I was also advised by Prof. Rosé.
 
-I am passionate about how technology may afford more accessible and readily available learning experiences. My research primarily focuses on educational technology and collaborative learning. In particular, I am broadly interested in designing user-centered technology to deepen group cooperative skills and learning. Currently, I am working on a project designing personalized support for face-to-face collaboration using egocentric sensing and XR.
+I am passionate about how technology may afford more accessible and readily available learning experiences. My research primarily focuses on educational technology and collaboration. In particular, I am broadly interested in designing user-centered technology to deepen group cooperative skills and learning. 
 
 I enjoy connecting with my research peers. Feel free to reach out at `rvitiell [at] andrew.cmu.edu`.
