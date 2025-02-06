@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-10-1 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started as a Research Associate and incoming PhD at CMU LTI, working with Prof. Carolyn Rosé and Prof. Yonatan Bisk. 
